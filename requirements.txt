@@ -1,0 +1,42 @@
+# ToluStock - Inventory Management System
+# Python Requirements File
+
+# Core dependencies (usually included with Python)
+# tkinter - GUI framework (included with most Python installations)
+# sqlite3 - Database support (included with Python)
+# json - JSON support (included with Python)
+# csv - CSV support (included with Python)
+# datetime - Date/time support (included with Python)
+# hashlib - Password hashing (included with Python)
+# os - Operating system interface (included with Python)
+# sys - System-specific parameters (included with Python)
+# shutil - High-level file operations (included with Python)
+# platform - Platform identification (included with Python)
+# re - Regular expressions (included with Python)
+
+# No external dependencies required!
+# ToluStock is designed to work with Python's standard library only.
+
+# Optional dependencies for enhanced functionality:
+# pillow>=8.0.0  # For better image handling (if you want to enhance logo display)
+# reportlab>=3.5.0  # For PDF report generation (future enhancement)
+
+# Development dependencies (not required for running the application):
+# pytest>=6.0.0  # For running tests
+# flake8>=3.8.0  # For code linting
+# black>=21.0.0  # For code formatting
+
+# Minimum Python version: 3.7+
+# Recommended Python version: 3.8+
+
+# Installation instructions:
+# 1. Ensure Python 3.7+ is installed
+# 2. Clone this repository
+# 3. Navigate to the project directory
+# 4. Run: python src/main.py
+
+# For development setup:
+# pip install pytest flake8 black
+
+# Note: ToluStock is designed to be lightweight and portable,
+# requiring only Python's standard library for core functionality.
