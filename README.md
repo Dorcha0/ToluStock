@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="ToluStock Logo" width="200"/>
+</div>
+
 # 🚀 ToluStock - Simplify Your Inventory Management! 📦
 
 Welcome to **ToluStock**, the easy-to-use inventory management app designed to **streamline your stock tracking** and boost your business efficiency! Whether you're a small shop or a growing business, ToluStock is here to help you manage your inventory with ease and confidence.
